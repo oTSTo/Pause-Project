@@ -29,8 +29,8 @@ long t_btn = 0;
 long debounce_delay = 500;
 bool uscitaMENU = 0;
 // WIFI
-const char *ssid = "Omega2000";
-const char *password = "zanyplum204";
+const char *ssid = "Your WI-FI name";
+const char *password = "Your WI-FI password";
 const char *ntpServer = "europe.pool.ntp.org";
 long gmtOffset_sec = 7200;        // 3600 - 3600
 const int daylightOffset_sec = 0; // 3600
